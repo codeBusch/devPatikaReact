@@ -1,0 +1,23 @@
+{
+  "name": "odev1",
+  "version": "1.0.0",
+  "description": "devpatikaodev1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeBusch/devPatikaReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeBusch/devPatikaReact/issues"
+  },
+  "homepage": "https://github.com/codeBusch/devPatikaReact#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
